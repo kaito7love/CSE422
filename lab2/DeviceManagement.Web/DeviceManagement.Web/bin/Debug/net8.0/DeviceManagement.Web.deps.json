@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeviceManagement.Web/1.0.0": {
+        "runtime": {
+          "DeviceManagement.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeviceManagement.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

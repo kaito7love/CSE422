@@ -1,0 +1,23 @@
+﻿@model DeviceManagement.Web.Models.DeviceCategory
+
+@{
+    ViewData["Title"] = "Edit Device Category";
+}
+
+<h1>Edit Device Category</h1>
+
+<!-- Hiển thị lỗi nếu có -->
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div class="form-group">
+        <label for="Name">Category Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
+
+<a href="@Url.Action("Index", "DeviceCategory")" class="btn btn-secondary">Back to List</a>

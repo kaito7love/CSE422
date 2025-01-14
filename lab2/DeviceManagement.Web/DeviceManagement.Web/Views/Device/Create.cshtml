@@ -1,0 +1,33 @@
+﻿@model Device
+
+<h1>Create Device</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Code</label>
+        <input type="text" name="Code" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <select name="CategoryId" class="form-control" required>
+            @foreach (var category in (SelectList)ViewBag.Categories)
+            {
+                <option value="@category.Value">@category.Text</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Status</label>
+        <input type="text" name="Status" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Date of Entry</label>
+        <input type="date" name="DateOfEntry" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

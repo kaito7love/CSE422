@@ -1,0 +1,64 @@
+﻿@model List<DeviceManagement.Web.Models.Device>
+
+<h1>Devices</h1>
+
+<!-- Search and Filter Form -->
+<form method="get">
+    <div class="form-group">
+        <label for="searchTerm">Search by Name or Code:</label>
+        <input type="text" id="searchTerm" name="searchTerm" class="form-control" placeholder="Enter device name or code" value="@Context.Request.Query["searchTerm"]" />
+    </div>
+</form>
+<form method="get">
+    <div class="form-group">
+        <label for="categoryId">Filter by Category:</label>
+        <select id="categoryId" name="categoryId" class="form-control" onchange="this.form.submit()">
+            <option value="">All Categories</option>
+            @foreach (var category in (SelectList)ViewBag.Categories)
+            {
+                <option value="@category.Value">@category.Text</option>
+            }
+        </select>
+    </div>
+</form>
+
+
+
+<!-- Device List Table -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Code</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Date of Entry</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var device in Model)
+        {
+            // Only display the device if it has a valid category (not null or invalid category)
+            var category = (ViewBag.Categories as IEnumerable<SelectListItem>)?.FirstOrDefault(c => c.Value == device.CategoryId.ToString());
+
+            if (category != null) // Device belongs to a valid category
+            {
+                <tr>
+                    <td>@device.Name</td>
+                    <td>@device.Code</td>
+                    <td>@category.Text</td>
+                    <td>@device.Status</td>
+                    <td>@device.DateOfEntry.ToShortDateString()</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@device.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@device.Id" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+
+</table>

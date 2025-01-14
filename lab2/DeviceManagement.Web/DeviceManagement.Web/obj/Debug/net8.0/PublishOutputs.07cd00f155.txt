@@ -1,0 +1,7 @@
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\DeviceManagement.Web.exe
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\DeviceManagement.Web.dll
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\DeviceManagement.Web.deps.json
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\DeviceManagement.Web.runtimeconfig.json
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\PubTmp\Out\DeviceManagement.Web.pdb

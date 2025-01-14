@@ -1,0 +1,14 @@
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\bin\Debug\net8.0\Lab1_CSE422_HoaiNam.exe
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\bin\Debug\net8.0\Lab1_CSE422_HoaiNam.deps.json
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\bin\Debug\net8.0\Lab1_CSE422_HoaiNam.runtimeconfig.json
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\bin\Debug\net8.0\Lab1_CSE422_HoaiNam.dll
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\bin\Debug\net8.0\Lab1_CSE422_HoaiNam.pdb
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.GeneratedMSBuildEditorConfig.editorconfig
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.AssemblyInfoInputs.cache
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.AssemblyInfo.cs
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.csproj.CoreCompileInputs.cache
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.dll
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\refint\Lab1_CSE422_HoaiNam.dll
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.pdb
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\Lab1_CSE422_HoaiNam.genruntimeconfig.cache
+E:\EIU\CSE422\Lab1_CSE422_HoaiNam\Lab1_CSE422_HoaiNam\obj\Debug\net8.0\ref\Lab1_CSE422_HoaiNam.dll

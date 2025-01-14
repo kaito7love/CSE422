@@ -1,0 +1,25 @@
+﻿@model DeviceManagement.Web.Models.User
+
+<h1>Create New User</h1>
+
+<!-- Display validation errors if any -->
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+<form method="post">
+    <div class="form-group">
+        <label for="FullName">Full Name</label>
+        <input type="text" class="form-control" id="FullName" name="FullName" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" required />
+    </div>
+    <div class="form-group">
+        <label for="PhoneNumber">Phone Number</label>
+        <input type="text" class="form-control" id="PhoneNumber" name="PhoneNumber" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a href="@Url.Action("Index", "User")" class="btn btn-secondary">Back to List</a>
