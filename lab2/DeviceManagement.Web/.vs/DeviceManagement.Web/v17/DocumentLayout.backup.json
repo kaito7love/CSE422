@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\controllers\\devicecategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +35,6 @@
       "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|e:\\eiu\\cse422\\lab2\\devicemanagement.web\\devicemanagement.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{369D2384-7EB9-46F0-9710-8E480902D58F}|DeviceManagement.Web\\DeviceManagement.Web.csproj|solutionrelative:devicemanagement.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,50 +46,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DeviceCategoryController.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\DeviceCategoryController.cs",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Controllers\\DeviceCategoryController.cs",
               "ToolTip": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\DeviceCategoryController.cs",
               "RelativeToolTip": "DeviceManagement.Web\\Controllers\\DeviceCategoryController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T20:37:14.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T20:37:14.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\Device\\Index.cshtml",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Views\\Device\\Index.cshtml",
               "ToolTip": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\Device\\Index.cshtml",
               "RelativeToolTip": "DeviceManagement.Web\\Views\\Device\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T20:36:25.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeviceController.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\DeviceController.cs",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Controllers\\DeviceController.cs",
               "ToolTip": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "DeviceManagement.Web\\Controllers\\DeviceController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T20:35:51.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Controllers\\HomeController.cs",
@@ -101,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Views\\User\\Create.cshtml",
@@ -113,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Views\\User\\Edit.cshtml",
@@ -125,15 +124,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Views\\User\\Index.cshtml",
               "ToolTip": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "DeviceManagement.Web\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T20:27:18.228Z"
+              "WhenOpened": "2025-01-14T20:27:18.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -149,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\lab2\\DeviceManagement.Web\\DeviceManagement.Web\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "DeviceManagement.Web\\Controllers\\UserController.cs",
@@ -157,7 +157,8 @@
               "RelativeToolTip": "DeviceManagement.Web\\Controllers\\UserController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAuwDAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T20:15:27.454Z"
+              "WhenOpened": "2025-01-14T20:15:27.454Z",
+              "EditorCaption": ""
             }
           ]
         }

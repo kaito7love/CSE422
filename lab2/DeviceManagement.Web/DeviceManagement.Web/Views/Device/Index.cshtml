@@ -21,7 +21,18 @@
         </select>
     </div>
 </form>
-
+<form method="get">
+    <div class="form-group">
+        <label for="statusFilter">Filter by Status:</label>
+        <select id="statusFilter" name="statusFilter" class="form-control" onchange="this.form.submit()">
+            <option value="">All Statuses</option>
+            @foreach (var status in ViewBag.Statuses)
+            {
+                <option value="@status">@status</option>
+            }
+        </select>
+    </div>
+</form>
 
 
 <!-- Device List Table -->

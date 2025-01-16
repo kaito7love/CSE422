@@ -29,7 +29,10 @@ public class DeviceController : Controller
         {
             filteredDevices = filteredDevices.Where(d => d.CategoryId == categoryId.Value);
         }
-
+        if (!string.IsNullOrEmpty(statusFilter))
+        {
+            filteredDevices = filteredDevices.Where(d => d.Status.Equals(statusFilter, StringComparison.OrdinalIgnoreCase));
+        }
 
         // Search by device name or code if searchTerm is provided
         if (!string.IsNullOrEmpty(searchTerm))
@@ -42,6 +45,7 @@ public class DeviceController : Controller
         // Prepare category list for the dropdown in the view
         ViewBag.Categories = new SelectList(DeviceCategoryController.GetCategories(), "Id", "Name");
 
+        ViewBag.Statuses = Devices.Select(d => d.Status).Distinct().ToList();
         // Return the filtered list of devices to the view
         return View(filteredDevices.ToList());
     }

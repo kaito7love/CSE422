@@ -58,3 +58,4 @@ E:\EIU\CSE422_Doc\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.
 E:\EIU\CSE422_Doc\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\DeviceManagement.Web.pdb
 E:\EIU\CSE422_Doc\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\DeviceManagement.Web.genruntimeconfig.cache
 E:\EIU\CSE422_Doc\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\ref\DeviceManagement.Web.dll
+E:\EIU\CSE422\lab2\DeviceManagement.Web\DeviceManagement.Web\obj\Debug\net8.0\DeviceManagement.Web.sourcelink.json
