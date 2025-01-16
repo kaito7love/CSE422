@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Libarary_Management_System_Lab3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

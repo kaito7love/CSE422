@@ -1,0 +1,15 @@
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\bin\Debug\net8.0\Libarary_Management_System_Lab3.exe
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\bin\Debug\net8.0\Libarary_Management_System_Lab3.deps.json
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\bin\Debug\net8.0\Libarary_Management_System_Lab3.runtimeconfig.json
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\bin\Debug\net8.0\Libarary_Management_System_Lab3.dll
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\bin\Debug\net8.0\Libarary_Management_System_Lab3.pdb
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.AssemblyInfoInputs.cache
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.AssemblyInfo.cs
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.csproj.CoreCompileInputs.cache
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.sourcelink.json
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.dll
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\refint\Libarary_Management_System_Lab3.dll
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.pdb
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\Libarary_Management_System_Lab3.genruntimeconfig.cache
+E:\EIU\CSE422\Libarary_Management_System_Lab3\Libarary_Management_System_Lab3\obj\Debug\net8.0\ref\Libarary_Management_System_Lab3.dll

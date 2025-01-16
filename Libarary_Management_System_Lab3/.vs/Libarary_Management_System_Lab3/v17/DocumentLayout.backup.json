@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|e:\\eiu\\cse422\\libarary_management_system_lab3\\libarary_management_system_lab3\\properties\\src\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB9014-379F-4245-B17A-4923C95F60E2}|Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3.csproj|solutionrelative:libarary_management_system_lab3\\properties\\src\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Program.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Program.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:58:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRecord.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookRecord.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookRecord.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookRecord.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:12:19.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Library.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Library.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Library.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:23:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Services\\NotificationService.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Services\\NotificationService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:43:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\LibraryCard.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\LibraryCard.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:07:53.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookClass.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookClass.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookClass.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookClass.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BookClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:11:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\ReturnTransaction.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\ReturnTransaction.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:49:36.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BorrowTransaction.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\BorrowTransaction.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:48:46.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Book.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Book.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:05:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMemberActions.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IMemberActions.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IMemberActions.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IMemberActions.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IMemberActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:37:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Transaction.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Transaction.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Transaction.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:15:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Member.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Models\\Member.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Models\\Member.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:12:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IPrintable.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Libarary_Management_System_Lab3\\Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "Libarary_Management_System_Lab3\\Properties\\src\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:28:02.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
