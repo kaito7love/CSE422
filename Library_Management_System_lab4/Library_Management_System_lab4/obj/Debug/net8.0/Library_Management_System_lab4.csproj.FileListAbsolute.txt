@@ -1,0 +1,15 @@
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\bin\Debug\net8.0\Library_Management_System_lab4.exe
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\bin\Debug\net8.0\Library_Management_System_lab4.deps.json
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\bin\Debug\net8.0\Library_Management_System_lab4.runtimeconfig.json
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\bin\Debug\net8.0\Library_Management_System_lab4.dll
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\bin\Debug\net8.0\Library_Management_System_lab4.pdb
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.AssemblyInfoInputs.cache
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.AssemblyInfo.cs
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.csproj.CoreCompileInputs.cache
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.sourcelink.json
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.dll
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\refint\Library_Management_System_lab4.dll
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.pdb
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\Library_Management_System_lab4.genruntimeconfig.cache
+E:\EIU\CSE422\Library_Management_System_lab4\Library_Management_System_lab4\obj\Debug\net8.0\ref\Library_Management_System_lab4.dll

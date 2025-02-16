@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Library_Management_System_lab4": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
