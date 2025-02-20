@@ -6,10 +6,10 @@ namespace Library_Management_System_lab4.LibraryManagementSystem.Models
 {
     public class Book
     {
-        public int Id { get; }
-        public string Title { get; }
-        public string Author { get; }
-        public string Category { get; }
+        public int Id { get; set; }
+        public string Title { get; private set; }
+        public string Author { get; private set; }
+        public string Category { get; private set; }
         public int Quantity { get; private set; }
 
         public Book(int id, string title, string author, string category, int quantity)
@@ -20,6 +20,7 @@ namespace Library_Management_System_lab4.LibraryManagementSystem.Models
             Category = category;
             Quantity = quantity;
         }
+
 
         public bool IsAvailable() => Quantity > 0;
 
