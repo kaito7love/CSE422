@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSE422_HoaiNam_Lab5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.AssemblyInfoInputs.cache
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.AssemblyInfo.cs
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.csproj.CoreCompileInputs.cache
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.sourcelink.json
+E:\EIU\CSE422\Example_Final\Example_Final\bin\Debug\net8.0\Example_Final.exe
+E:\EIU\CSE422\Example_Final\Example_Final\bin\Debug\net8.0\Example_Final.deps.json
+E:\EIU\CSE422\Example_Final\Example_Final\bin\Debug\net8.0\Example_Final.runtimeconfig.json
+E:\EIU\CSE422\Example_Final\Example_Final\bin\Debug\net8.0\Example_Final.dll
+E:\EIU\CSE422\Example_Final\Example_Final\bin\Debug\net8.0\Example_Final.pdb
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.dll
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\refint\Example_Final.dll
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.pdb
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\Example_Final.genruntimeconfig.cache
+E:\EIU\CSE422\Example_Final\Example_Final\obj\Debug\net8.0\ref\Example_Final.dll

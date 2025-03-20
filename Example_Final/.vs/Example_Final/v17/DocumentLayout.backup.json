@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EIU\\CSE422\\Example_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|e:\\eiu\\cse422\\example_final\\example_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|solutionrelative:example_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|e:\\eiu\\cse422\\example_final\\example_final\\not\u00ECication_system\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|solutionrelative:example_final\\not\u00ECication_system\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|e:\\eiu\\cse422\\example_final\\example_final\\not\u00ECication_system\\models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|solutionrelative:example_final\\not\u00ECication_system\\models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|e:\\eiu\\cse422\\example_final\\example_final\\not\u00ECication_system\\models\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|solutionrelative:example_final\\not\u00ECication_system\\models\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|e:\\eiu\\cse422\\example_final\\example_final\\not\u00ECication_system\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290CDB27-01EB-4D18-A013-46879B9ABBAE}|Example_Final\\Example_Final.csproj|solutionrelative:example_final\\not\u00ECication_system\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\SMS.cs",
+              "RelativeDocumentMoniker": "Example_Final\\Not\u00ECication_System\\Models\\SMS.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\SMS.cs",
+              "RelativeToolTip": "Example_Final\\Not\u00ECication_System\\Models\\SMS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:12:29.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\PushNotification.cs",
+              "RelativeDocumentMoniker": "Example_Final\\Not\u00ECication_System\\Models\\PushNotification.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\PushNotification.cs",
+              "RelativeToolTip": "Example_Final\\Not\u00ECication_System\\Models\\PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:12:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Email.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Example_Final\\Not\u00ECication_System\\Models\\Email.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Models\\Email.cs",
+              "RelativeToolTip": "Example_Final\\Not\u00ECication_System\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:12:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Interfaces\\INotification.cs",
+              "RelativeDocumentMoniker": "Example_Final\\Not\u00ECication_System\\Interfaces\\INotification.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Not\u00ECication_System\\Interfaces\\INotification.cs",
+              "RelativeToolTip": "Example_Final\\Not\u00ECication_System\\Interfaces\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:59:06.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Example_Final\\Program.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Example_Final\\Example_Final\\Program.cs",
+              "RelativeToolTip": "Example_Final\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:54:45.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

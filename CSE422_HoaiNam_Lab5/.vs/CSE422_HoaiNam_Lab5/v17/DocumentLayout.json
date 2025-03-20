@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\documents\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\documents\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\documents\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\documents\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\documents\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\documents\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\documents\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\documents\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\notifications\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\notifications\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\notifications\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\notifications\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\newspaperloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\newspaperloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\magazineloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\magazineloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\loanfeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\loanfeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\bookloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\loanfees\\bookloanfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\interfaces\\iloanfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\interfaces\\iloanfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|e:\\eiu\\cse422\\cse422_hoainam_lab5\\cse422_hoainam_lab5\\librarymanagementsystem\\database\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1969F5-6278-41FB-9866-3D0C0254818E}|CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj|solutionrelative:cse422_hoainam_lab5\\librarymanagementsystem\\database\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MagazineLoanFee.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\MagazineLoanFee.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\MagazineLoanFee.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\MagazineLoanFee.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\MagazineLoanFee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:42:45.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewspaperLoanFee.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\NewspaperLoanFee.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\NewspaperLoanFee.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\NewspaperLoanFee.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\NewspaperLoanFee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:42:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\Library.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\Library.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\Library.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\Library.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:37:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\User.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\User.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\User.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Notifications\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:37:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\Program.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\Program.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:22:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Book.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Book.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Book.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:38:42.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Magazine.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Magazine.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Magazine.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:40:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Newspaper.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Newspaper.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Newspaper.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:40:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\DocumentFactory.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\DocumentFactory.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\DocumentFactory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:39:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanFeeCalculator.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\LoanFeeCalculator.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\LoanFeeCalculator.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\LoanFeeCalculator.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\LoanFeeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:42:27.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookLoanFee.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\BookLoanFee.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\BookLoanFee.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\BookLoanFee.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\LoanFees\\BookLoanFee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:42:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Document.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Document.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Document.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Document.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Documents\\Document.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:38:24.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\IObserver.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\IObserver.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\IObserver.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:36:50.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILoanFeeStrategy.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\ILoanFeeStrategy.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\ILoanFeeStrategy.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\ILoanFeeStrategy.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Interfaces\\ILoanFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:36:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Database\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Database\\DatabaseConnection.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Database\\DatabaseConnection.cs",
+              "RelativeToolTip": "CSE422_HoaiNam_Lab5\\LibraryManagementSystem\\Database\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:34:25.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

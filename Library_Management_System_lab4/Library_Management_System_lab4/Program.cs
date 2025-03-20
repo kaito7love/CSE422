@@ -42,7 +42,8 @@ class Program
             Console.WriteLine("2. Lend a book");
             Console.WriteLine("3. Return a book");
             Console.WriteLine("4. Generate report");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. Add new book");
+            Console.WriteLine("6. Exit");
             Console.Write("Enter your choice: ");
 
             string choice = Console.ReadLine();
@@ -90,6 +91,23 @@ class Program
                     break;
 
                 case "5":
+                    Console.Write("Enter Book ID: ");
+                    int newBookId = int.Parse(Console.ReadLine());
+                    Console.Write("Enter Title: ");
+                    string newTitle = Console.ReadLine();
+                    Console.Write("Enter Author: ");
+                    string newAuthor = Console.ReadLine();
+                    Console.Write("Enter Category: ");
+                    string newCategory = Console.ReadLine();
+                    Console.Write("Enter Quantity: ");
+                    int newQuantity = int.Parse(Console.ReadLine());
+
+                    Book newBook = new Book(newBookId, newTitle, newAuthor, newCategory, newQuantity);
+                    bookManager.AddBook(newBook);
+                    Console.WriteLine("Book added successfully!");
+                    break;
+
+                case "6":
                     return;
 
                 default:

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYNsJEFcH3I=",
+  "success": true,
+  "projectFilePath": "E:\\EIU\\CSE422\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5\\CSE422_HoaiNam_Lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

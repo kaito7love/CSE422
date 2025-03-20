@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\services\\readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\librarymanagementsystem\\services\\readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\librarymanagementsystem\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\librarymanagementsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\interfaces\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\librarymanagementsystem\\interfaces\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|solutionrelative:library_management_system_lab4\\librarymanagementsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C06837D-8A0A-4B79-AB00-234B235A8CC4}|Library_Management_System_lab4\\Library_Management_System_lab4.csproj|e:\\eiu\\cse422\\library_management_system_lab4\\library_management_system_lab4\\librarymanagementsystem\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "ReaderManager.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "ToolTip": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "RelativeToolTip": "Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:07:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Reader.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Models\\Reader.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Models\\Reader.cs",
@@ -54,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IBookManager.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Interfaces\\IBookManager.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Interfaces\\IBookManager.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BorrowRecord.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Models\\BorrowRecord.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Models\\BorrowRecord.cs",
@@ -78,19 +94,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ReportService.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReportService.cs",
               "ToolTip": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReportService.cs",
               "RelativeToolTip": "Library_Management_System_lab4\\LibraryManagementSystem\\Services\\ReportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T11:37:10.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Models\\Book.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookManager.cs",
               "DocumentMoniker": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\LibraryManagementSystem\\Services\\BookManager.cs",
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\LibraryManagementSystem\\Services\\BookManager.cs",
@@ -120,7 +136,7 @@
               "RelativeDocumentMoniker": "Library_Management_System_lab4\\Program.cs",
               "ToolTip": "E:\\EIU\\CSE422\\Library_Management_System_lab4\\Library_Management_System_lab4\\Program.cs",
               "RelativeToolTip": "Library_Management_System_lab4\\Program.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAowMIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowGsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T11:07:53.252Z",
               "EditorCaption": ""
